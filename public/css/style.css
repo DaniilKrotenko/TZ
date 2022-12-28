@@ -1,0 +1,11 @@
+.price{
+    display: inline-block;
+    width: auto;
+}
+
+.text-price{
+    display: inline-block;
+}
+.form-check{
+    display: inline-block !important;
+}
